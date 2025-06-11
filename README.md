@@ -58,7 +58,7 @@ Use the predicted deconvolution operators to enhance the resolution of the seism
 - 🏆 **Competitive or superior** to traditional LSRTM and CNN-based methods  
 - ⚡️ **Faster runtime** (up to **10×** compared with LSRTM and CNN-PSF methods)  
 - 🌍 **High generalization** to perturbed velocity models  
-  (validated on Marmousi and Sigsbee scenarios)
+  (validated on Marmousi scenario)
  
 📈 Citation
 
