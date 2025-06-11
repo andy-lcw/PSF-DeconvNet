@@ -1,4 +1,4 @@
-# PSF-DeconvNet: A Lightweight Attention-Based Neural Network for Automatic PSF Deconvolution in Seismic Imaging
+# PSF-DeconvNet: Improving the resolution of seismic migration image based on a point spread function deconvolution neural network
 
 ## 🔍 Description
 
@@ -63,14 +63,15 @@ Use the predicted deconvolution operators to enhance the resolution of the seism
 📈 Citation
 
 If you use this code or model in your research, please cite:
+```
 @article{liu2025psfdeconvnet,
-  title={PSF-DeconvNet: Enhancing the Resolution of Seismic Migration Images via Automatic Point Spread Function Deconvolution},
-  author={Liu, Cewen and Fu, Haohuan and Wu, Wei and Guo, Mingjie},
+  title={PSF-DeconvNet: Improving the resolution of seismic migration image based on a point spread function deconvolution neural network},
+  author={Cewen Liu and Haohuan Fu},
   journal={Journal of Geophysical Research: Machine Learning and Computation},
   year={2025},
   doi={10.1029/2025JBXXXXXX}
 }
-
+```
 🔐 License
 
 This project is released under the MIT License.
